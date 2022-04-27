@@ -1,0 +1,13 @@
+package com.example.organogram;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class EmployeeManagerTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
